@@ -1,7 +1,7 @@
 {
   "name": "@unikate/ngx-owl-carousel-fork",
   "description": "Fork of https://www.npmjs.com/package/ngx-owl-carousel, adding instagram-like dots animation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "build": "ngc -p tsconfig.json",
     "lint": "tslint src/**/*.ts",
